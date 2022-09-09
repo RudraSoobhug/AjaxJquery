@@ -1,0 +1,18 @@
+body {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+[id*='prdImg'] {
+    position: relative;
+    border-radius: 20px;
+    border: 2px solid blue;
+    width: 90%;
+    margin: 20px 24px 20px 24px;
+}
+
+.deleteBout:hover {
+    background-color: red;
+}
